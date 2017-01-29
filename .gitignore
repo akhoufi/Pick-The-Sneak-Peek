@@ -1,3 +1,6 @@
 # -*- mode: gitignore; -*-
 
 dumps/
+.ipynb_checkpoints/ExploringData-checkpoint.ipynb
+.ipynb_checkpoints/ProcessingData-checkpoint.ipynb
+bundle_pick-the-sneak-peek_2016-11-30.zip
